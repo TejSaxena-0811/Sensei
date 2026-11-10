@@ -1,6 +1,6 @@
-# RAG-based-teaching-assistant
+# Sensei: RAG-based-Teaching-Assistant
 
-# How to use this RAG AI Teaching assistant on your own data
+# How to use this project on your own data:
 
 ## Step 1 - Collect your videos
 Move all your video files to the videos folder
