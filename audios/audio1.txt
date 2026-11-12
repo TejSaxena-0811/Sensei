@@ -1,1 +1,1 @@
-
+after running the video_to_mp3.py file, ffmpeg extracts only the audios from those videos and saves them in this folder.
