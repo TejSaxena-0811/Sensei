@@ -1,5 +1,10 @@
 # Sensei: RAG-based-Teaching-Assistant
 
+# Live Demo of this Project on my YouTube Channel (TStack):
+
+https://www.youtube.com/watch?v=4CAsmpOXrDs
+
+
 # How to use this project on your own data:
 
 ## Step 1 - Collect your videos
