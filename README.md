@@ -1,7 +1,7 @@
 
-# Sensei: RAG-based-Teaching-Assistant
+# Sensei: RAG-Based-AI-Teaching-Assistant
 
-## Live Demo of this Project on my YouTube Channel (TStack)
+## Live Demo of this Project on my YouTube Channel (TStack):
 
 [Watch the Live Demo](https://www.youtube.com/watch?v=4CAsmpOXrDs)
 
