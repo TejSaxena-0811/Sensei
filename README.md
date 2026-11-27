@@ -32,4 +32,8 @@ Use the file read_chunks.py to convert the json files to a dataframe with Embedd
 
 ### Step 5 - Prompt generation and feeding to LLM
 
+
+
+## Sensei doesn't simply ask an LLM to answer from its general knowledge. It first retrieves relevant information from your own lecture collection, then the LLM converts it into an output in the English language.
+
 Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM.
